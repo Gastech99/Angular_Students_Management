@@ -1,0 +1,9 @@
+mat-form-field{
+    display: block;
+}
+
+.container{
+    width: 600px;
+    justify-content: center;
+    margin: auto;
+}
